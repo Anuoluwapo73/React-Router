@@ -1,0 +1,22 @@
+📝 Class Assessment: Build a Portfolio App with React Routing
+
+Task:
+Create a portfolio application with four pages:
+Home Page – A welcome section introducing yourself.
+ - Details about you and your picture and then link to other pages
+Projects Page – Show at least 3 sample projects (just titles/descriptions).
+ - Dummy div that has an image and description of the project
+About Page – Write a short description about yourself.
+ - About you and your picture
+Services Page – List some services you provide.
+ unOrdered list of the services that you render
+
+
+The app should include a navigation bar to move between these pages 
+
+✅ Requirements
+Use react-router-dom for routing.
+Each page must be its own component (Home, Projects, About, Services).
+Add a Navbar that shows on every page.
+When clicking a nav link, the page should change without refreshing.
+Use some basic styling (Tailwind, CSS, or inline styles).
